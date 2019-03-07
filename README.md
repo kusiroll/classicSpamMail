@@ -1,0 +1,2 @@
+Many email services today provide spam ﬁlters that are able to classify emails into spam and non-spam email with high accuracy.
+This code runs support vector machine algorithm on a public dataset using the original emails(5,000 emails) from the SpamAssassin Public Corpus. 
